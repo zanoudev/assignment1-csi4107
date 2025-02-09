@@ -89,16 +89,6 @@ trec_eval -m map relevance.txt Results.txt
 
 ---
 
-## **Vocabulary Size & Sample Tokens**
-
-- **Total Vocabulary Size:**
-- **Sample Tokens (First 100):**
-
-  ```
-
-  ```
-
----
 
 ## **Sample Results**
 
