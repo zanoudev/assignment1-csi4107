@@ -5,7 +5,7 @@
 ### **Team Members:**
 
 - Zanou Rih - 300178068
-
+- Rita Tihani - 300206847
 ---
 
 ## **Assignment Overview**
