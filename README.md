@@ -44,6 +44,18 @@ and evaluates performance using **Mean Average Precision (MAP)**.
 
 ---
 
+## **Task Distribution**
+The workload for this assignment was split as follows:
+Preprocessing & Indexing (Zanou Rih)
+Retrieval and Evaluation (Rita Tihani)
+
+1. **Preprocessing (preprocessing.py)**
+
+   - Load the Scifact dataset
+   - Tokenize and removes stopwords
+   - Apply stemming for better normalization
+   - Store processed tokens for indexing
+
 ## **How to Run the Code**
 
 ### **Install Dependencies**
